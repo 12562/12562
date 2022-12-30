@@ -7,7 +7,7 @@ Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on developing my programming skills.
 - 🌱 I’m currently learning Hardware Security.
-<-- - 👯 I’m looking to collaborate on 
+<!-- - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
 - 📫 How to reach me: [e-mail](mailto:mohit12562@gmail.com), or [LinkedIn](https://www.linkedin.com/in/mohit12562/)
