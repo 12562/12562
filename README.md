@@ -103,4 +103,6 @@ I am University of Windsor graduate from India.
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=12562&count_private=true&show_icons=true&include_all_commits=true&theme=radical)](https://github.com/12562?tab=repositories)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=12562&theme=dark&background=000000)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=12562&layout=compact&theme=radical)](https://github.com/12562?tab=repositories)
