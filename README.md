@@ -38,7 +38,7 @@
 I am University of Windsor graduate from India.
 
 - 🔭 I’m currently working on developing my programming skills.
-<-- - 🌱 I’m currently learning Hardware Security. -->
+<!-- - 🌱 I’m currently learning Hardware Security. -->
 - :zap: In my free time, I solve programming (AoC) , machine learning (kaggle) and math (brilliant) problems and read tech articles.
 <!-- - 👯 I’m looking to collaborate on 
 - 🤔 I’m looking for help with ...
